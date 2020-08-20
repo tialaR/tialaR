@@ -16,7 +16,20 @@ I really enjoy working as a team, facing new challenges and always opening up ne
 <p/>
 </br>
 
-![](tela01.png)
+```javascript
+
+const [developer, setDeveloper] = useState<Developer>({
+   name: 'Tiala Rocha',
+   profession: 'System Analyst',
+   fuels: [ 'Challenges', 'Coffee' ],
+   technologies: {
+        frontEnd: [ 'ReactJS', 'React Native' ],
+        backEnd: [ 'Node.js' ],
+   },
+   languages: [ 'TypeScript', 'JavaScript' ] ,
+});
+
+```
 
 <!--
 **tialaR/tialaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
