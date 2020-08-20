@@ -7,6 +7,9 @@
 * _I'm currently focused on acting and constantly learning __ReactJS__, __React Native__ and __Node.js__._
 * _I really enjoy working as a team, facing new challenges and always opening up new opportunities._
 
+<font color="green"> Some green text </font>
+
+
 <p>> Linkedin: https://www.linkedin.com/in/tiala-rocha/</p>
 
 ```javascript
