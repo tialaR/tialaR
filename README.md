@@ -15,7 +15,7 @@ I'm currently focused on acting and constantly learning ReactJS, React Native an
 I really enjoy working as a team, facing new challenges and always opening up new opportunities.
 <p/>
 </br>
-Linkedin: https://www.linkedin.com/in/tiala-rocha/
+> Linkedin: https://www.linkedin.com/in/tiala-rocha/
 </br>
 
 ```javascript
