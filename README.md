@@ -1,4 +1,4 @@
-## 👩🏾‍💻 _&nbsp;&nbsp;_ _Hello everyone..._ 
+## 👩🏾‍💻 _&nbsp;&nbsp;_ _Hi everyone..._ 
 
 </br>
 
