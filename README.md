@@ -8,7 +8,9 @@ My name is Tiala Rocha and i'm passionate about the technologies involved in Jav
 <p>
 I'm currently work at Capgemini as Jr Systems Analyst.
 </p>
-_I'm currently focused on acting and constantly learning ReactJS, React Native and Node.js._
+<p>
+I'm currently focused on acting and constantly learning ReactJS, React Native and Node.js.
+</p>
 <p>
 I really enjoy working as a team, facing new challenges and always opening up new opportunities.
 <p/>
