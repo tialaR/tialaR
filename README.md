@@ -12,7 +12,8 @@ I'm currently focused on acting and constantly learning ReactJS, React Native an
 <p>
 I really enjoy working as a team, facing new challenges and always opening up new opportunities.
 <p/>
-<p></p>
+</br>
+
 ![](tela01.png)
 
 <!--
