@@ -1,5 +1,7 @@
 ### 👩🏾‍💻  Hello.. 
 
+</br>
+
 <p>
 My name is Tiala Rocha and i'm passionate about the technologies involved in JavaScript and Typecript. 
 </p>
