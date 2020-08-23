@@ -4,7 +4,7 @@
 
 * _My name is __Tiala Rocha__ and i'm passionate about the technologies involved in __JavaScript__ and __Typecript__._ 
 * _I'm currently work at Capgemini as Jr Systems Analyst._
-* _I'm currently focused on acting and constantly learning __ReactJS__, __React Native__ and __Node.js__._
+* _Focused on acting and constantly learning __ReactJS__, __React Native__ and __Node.js__._
 * _I really enjoy working as a team, facing new challenges and always opening up new opportunities._
 
 <p>> Linkedin: https://www.linkedin.com/in/tiala-rocha/</p>
