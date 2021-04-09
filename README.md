@@ -9,21 +9,6 @@
 * _Focused on acting and constantly learning __ReactJS__, __React Native__ and __Node.js__._
 * _I really enjoy working as a team, facing new challenges and always opening up new opportunities._
 
-```javascript
-
-const [developer, setDeveloper] = useState<Developer>({
-   name: 'Tiala Rocha',
-   profession: 'System Analyst',
-   fuels: [ 'Challenges', 'Coffee' ],
-   technologies: {
-        frontEnd: [ 'ReactJS', 'React Native' ],
-        backEnd: [ 'Node.js' ],
-   },
-   languages: [ 'TypeScript', 'JavaScript' ] ,
-});
-
-```
-
 <!--
 **tialaR/tialaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
