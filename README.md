@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-tialarocha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiala-rocha/)](https://www.linkedin.com/in/tiala-rocha/)_&nbsp;&nbsp;_[![Gmail Badge](https://img.shields.io/badge/-tialarocha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tialarocha@gmail.com)](mailto:tialarocha@gmail.com)
 
 * _My name is __Tiala Rocha__ and i'm passionate about the technologies involved in __JavaScript__ and __Typecript__._ 
-* _I'm currently work at Capgemini as Jr Systems Analyst._
+* _I'm currently work at Compass.UOL as Front-End Developer._
 * _Focused on acting and constantly learning __ReactJS__ and __React Native___.
 * _I really enjoy working as a team, facing new challenges and always opening up new opportunities._
 
