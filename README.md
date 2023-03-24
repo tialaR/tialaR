@@ -6,7 +6,7 @@
 
 * _My name is __Tiala Rocha__ and i'm passionate about the technologies involved in __JavaScript__ and __Typecript__._ 
 * _I'm currently work at Compass.UOL as Front-End Developer._
-* _Focused on acting and constantly learning __ReactJS__ ,__Next.js__ and __React Native___.
+* _Focused on acting and constantly learning __ReactJS__ ,__Next.js__.
 * _I really enjoy working as a team, facing new challenges and always opening up new opportunities._
 
 <!--
