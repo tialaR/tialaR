@@ -1,25 +1,27 @@
-## 👩🏾‍💻 _&nbsp;&nbsp;_ _Hi everyone..._ 
+## Hi, everyone! 👋🏾
 
-</br>
+### About me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-tialarocha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiala-rocha/)](https://www.linkedin.com/in/tiala-rocha/)_&nbsp;&nbsp;_[![Gmail Badge](https://img.shields.io/badge/-tialarocha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tialarocha@gmail.com)](mailto:tialarocha@gmail.com)
+- 👩🏾‍💻 I'm a Front-End Developer since 2017  
+- ⚛️ React | React.js | JavaScript | TypeScript | Next.js | Styled-Components | SASS | TawindCSS
+- 🏢 I've worked in software factories building products for different segments  
+- 📓 I'm a graduate at Systems Analysis and Development
+- 🚀 I'm always learning and improving my skills in web development  
+- 🌍 How to reach me: https://www.linkedin.com/in/tiala-rocha/
 
-* _My name is __Tiala Rocha__ and i'm passionate about the technologies involved in __JavaScript__ and __Typecript__._ 
-* _I'm currently work at Compass.UOL as Front-End Developer._
-* _Focused on acting and constantly learning __ReactJS__ ,__Next.js__ and __React Native__.
-* _I really enjoy working as a team, facing new challenges and always opening up new opportunities._
+---
 
-<!--
-**tialaR/tialaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages and tools:
 
-Here are some ideas to get you started:
+<img src="https://github.com/user-attachments/assets/3fea2655-e508-4bed-942b-63db0b811bdd" alt="logo" width="35" height="35" />
+<img width="30" height="30" alt="Visual_Studio_Code_1 35_icon svg" src="https://github.com/user-attachments/assets/c60d6629-a1b0-4d00-881a-099c745df828" /> 
+<img width="30" height="30" alt="JavaScript-logo" src="https://github.com/user-attachments/assets/7b3478ca-b93f-413b-96be-7327daaed545" />
+<img width="30" height="30" alt="Typescript_logo_2020 svg" src="https://github.com/user-attachments/assets/c0d0711a-758e-4456-82da-f283a9c261b8" />
+<img width="30" height="30" alt="nextjs-original" src="https://github.com/user-attachments/assets/f572c093-97da-422f-8c84-80f815307eae" />
+<img width="30" height="30" alt="atom" src="https://github.com/user-attachments/assets/f1597ad4-9519-4d46-bc15-4eb354257d3f" />
+<img width="35" height="35" alt="Sass_Logo_Color svg" src="https://github.com/user-attachments/assets/a44fa33f-b58c-42c0-b86f-4c3eaab3f4ef" />
+<img width="35" height="35" alt="Tailwind_CSS_Logo svg" src="https://github.com/user-attachments/assets/98bb9cd0-9153-4b47-98f9-bfef6dbc75c4" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+✨ *"Code, learn, refactor, repeat."*  
