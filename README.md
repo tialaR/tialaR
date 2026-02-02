@@ -3,7 +3,7 @@
 ### About me:
 
 - 👩🏾‍💻 I'm a Front-End Developer since 2017  
-- ⚛️ React | React.js | JavaScript | TypeScript | Next.js | Styled-Components | SASS | TawindCSS
+- ⚛️ React | React.js | JavaScript | TypeScript | Next.js | Styled-Components | TawindCSS | Angular
 - 🏢 I've worked in software factories building products for different segments  
 - 📓 I'm a graduate at Systems Analysis and Development
 - 🚀 I'm always learning and improving my skills in web development  
